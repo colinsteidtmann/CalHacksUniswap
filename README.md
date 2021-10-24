@@ -1,4 +1,4 @@
-# Markdown syntax guide
+# Inflation adjusted employee salary using smart-contracts connected to Uniswap and Chainlink
 
 ## **Goal**:
 
